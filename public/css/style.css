@@ -1,0 +1,16 @@
+nav img {
+    width: 10%;
+    filter: invert(1);
+}
+
+main{
+    min-height: 84vh;
+}
+
+body{
+    background: #212529;
+}
+
+header ul li{
+    white-space: nowrap;
+}
